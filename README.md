@@ -33,17 +33,19 @@
 
 <b><h2>Things to note</h2></b></br>
 
-1)All the timeouts are dynamic in nature with regular polling. </br>
+1)All the timeouts are dynamic in nature with regular polling.</br>
 
-2)Additional feature file (WeatherForecastDemoForParallelRun) has been created with the same scenarios </br>
+2)Additional feature file (WeatherForecastDemoForParallelRun) has been created with the same scenarios</br>
 just to demonstrate parallel run. </br>
 
-3)Chrome and Firefox need to be updated to the latest version. </br>
+3)Chrome and Firefox need to be updated to the latest version.</br>
 
-4)Operating System should have maven and java(1.8) installed. </br>
+4)Operating System should have maven and java(1.8) installed.</br>
 
-5)Parallel run for multiple browsers for different view ports and environments can be easily  
-achieved through Jenkins
+5)Parallel run for multiple browsers for different view ports and environments can be easily</br>   
+achieved through Jenkins</br>
 
-For example - Multiple instances of firefox can run parallely with multiple instances of chrome
-through jenkins at the same time using the same code base.
+For example - Multiple instances of firefox can run parallely with multiple instances of chrome</br>
+through jenkins at the same time using the same code base.</br>
+
+6)Latest version of Windows Firefox driver is not compatible with latest version of Windows Firefox
